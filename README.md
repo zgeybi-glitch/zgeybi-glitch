@@ -2,7 +2,6 @@
 
 I'm a passionate software developer and tutor specializing in Web Development. Currently, I'm pursuing a BSc in Computer Science (Applied Math and Informatics) at the Moscow Institute Of Physics And Technology (MIPT).
 
----
 
 ## Tech Stack
 
@@ -15,7 +14,6 @@ I'm a passionate software developer and tutor specializing in Web Development. C
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## Featured Projects
 
@@ -31,7 +29,7 @@ I'm a passionate software developer and tutor specializing in Web Development. C
 - [**Covid-19 Infections Counter**](https://github.com/zgeybi/Covid-19-Tracker)  
   *Interactive website built with React.js visualizing global COVID-19 statistics.*
 
----
+
 
 ## Connect With Me
 
@@ -42,6 +40,5 @@ I'm a passionate software developer and tutor specializing in Web Development. C
 
 **Portfolio:** [timzgeybi.com](https://timzgeybi.com)
 
----
 
 *Feel free to reach out for collaborations, discussions, or just a friendly chat! Let's build something amazing together.*
