@@ -1,4 +1,4 @@
-# Hi, I'm Tim Zgeybi 👋
+# I'm Tim Zgeybi
 
 **Founder & CEO at [Kapichu](https://kapichu.ru) · Full-stack developer**
 
